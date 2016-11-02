@@ -1,0 +1,30 @@
+[submodule "modules/red"]
+	path = modules/red
+	url = https://github.com/davidstutz/kohana-red
+[submodule "modules/green"]
+	path = modules/green
+	url = https://github.com/davidstutz/kohana-green
+[submodule "modules/yellow"]
+	path = modules/yellow
+	url = https://github.com/davidstutz/kohana-yellow
+[submodule "modules/blue"]
+	path = modules/blue
+	url = https://github.com/davidstutz/kohana-blue
+[submodule "modules/gaps"]
+	path = modules/gaps
+	url = https://github.com/davidstutz/kohana-gaps
+[submodule "modules/navigation"]
+	path = modules/navigation
+	url = https://github.com/davidstutz/kohana-navigation
+[submodule "modules/database"]
+	path = modules/database
+	url = https://github.com/kohana/database
+[submodule "modules/orm"]
+	path = modules/orm
+	url = https://github.com/kohana/orm
+[submodule "system"]
+	path = system
+	url = https://github.com/kohana/core
+[submodule "modules/media"]
+	path = modules/media
+	url = https://github.com/davidstutz/kohana-media

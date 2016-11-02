@@ -37,6 +37,22 @@ created database.
 * Test the installation by navigating to `localhost/kohana-demo` (in case, the installation
 path was not changed).
 
+# Screenshots
+
+![Login.](login1.png?raw=true "Login.")
+
+![Login after user creation.](login2.png?raw=true "Login after user creation.")
+
+![User configuration.](config1.png?raw=true "User configuration.")
+
+![User configuration after creating a configuration options.](config2.png?raw=true "User configuration after creating a configuration options.")
+
+[User logs.](logs.png?raw=true "User logs.")
+
+[User management.](users.png?raw=true "User management.")
+
+[Edit user.](user.png?raw=true "Edit user.")
+
 ## License
 
 Copyright (c) 2016, David Stutz All rights reserved.
