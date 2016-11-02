@@ -17,7 +17,7 @@ return array
         'type'       => 'MySQL',
         'connection' => array(
             'hostname'   => 'localhost',
-            'database'   => 'demo_31',
+            'database'   => 'kohana_demo',
             'username'   => 'root',
             'password'   => FALSE,
         ),

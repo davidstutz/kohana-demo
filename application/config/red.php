@@ -14,25 +14,25 @@
 return array(
     'password'  => array(
         'method' => 'sha256',
-        'key' => 'demo',
+        'key' => 'kohana_demo',
         'iterations' => 10000,
-        'salt' => 'demo', 
+        'salt' => 'kohana_demo', 
     ),
     'session' => array(
-        'type' => 'database',
+        'type' => 'native',
         'key'  => 'red_user',
     ),
     'login' => array(
         'method' => 'sha256', // Method for hashing IPs and user agents.
-        'key' => 'demo',
+        'key' => 'kohana_demo',
         'delay' => 10, // Delay between logins in seconds.
         'store' => 604800, // Store logins for x seconds.
     ),
     'token' => array(
         'method' => 'sha256',
-        'key' => 'demo',
+        'key' => 'kohana_demo',
         'lifetime' => 1209600, // Lifetime of the cookie and the token.
-        'cookie_key' => '', // The key for the cookie to use.
+        'cookie_key' => 'kohana_demo', // The key for the cookie to use.
         'gc' => 100, // Garbage collector is run in 1/100 of times.
     ),
 );
