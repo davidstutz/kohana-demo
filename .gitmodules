@@ -1,0 +1,30 @@
+[submodule "kohana-core-31"]
+	path = system
+	url = https://github.com/kohana/core
+[submodule "kohana-database-31"]
+	path = modules/database
+	url = https://github.com/kohana/database
+[submodule "kohana-orm-31"]
+	path = modules/orm
+	url = https://github.com/kohana/orm
+[submodule "kohana-red-31"]
+	path = modules/red
+	url = https://github.com/davidstutz/kohana-red
+[submodule "kohana-green-31"]
+	path = modules/green
+	url = https://github.com/davidstutz/kohana-green
+[submodule "kohana-yellow-31"]
+	path = modules/yellow
+	url = https://github.com/davidstutz/kohana-yellow
+[submodule "kohana-blue-31"]
+	path = modules/blue
+	url = https://github.com/davidstutz/kohana-blue
+[submodule "kohana-gaps-31"]
+	path = modules/gaps
+	url = https://github.com/davidstutz/kohana-gaps
+[submodule "kohana-media-31"]
+	path = modules/media
+	url = https://github.com/davidstutz/kohana-media
+[submodule "kohana-navigation-31"]
+	path = modules/navigation
+	url = https://github.com/davidstutz/kohana-navigation
