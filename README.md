@@ -23,7 +23,7 @@ on Ubuntu 14.04.
 
 Instructions:
 
-* Clone the repository using `git clone`, make sure to get thee desired branch.
+* Clone the repository using `git clone --recursive`, make sure to get thee desired branch.
 * If the repository is not located in the root directory, for example in `htdocs/kohana-demo`,
 `application/bootstrap.php` and `.htaccess` should be adapted accordingly. In
 particular, replace the root path `kohana-demo/`.
